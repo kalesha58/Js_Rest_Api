@@ -1,0 +1,55 @@
+{
+  "todo": [
+    {
+      "title": "Egg",
+      "status": false,
+      "id": 1660320878417
+    },
+    {
+      "title": "CFA",
+      "status": true,
+      "id": 1660375914927
+    },
+    {
+      "title": "movie",
+      "status": false,
+      "id": 1660375948439
+    },
+    {
+      "title": "milk",
+      "status": false,
+      "id": 1660378766887
+    }
+  ],
+  "users": [
+    {
+      "Name": "k",
+      "Batch": "web-19",
+      "Course": "FWD",
+      "Age": 22,
+      "Mobile_No": 7303045108,
+      "Evaluation_Score": 7,
+      "id": "123"
+    },
+    {
+      "Name": "Kalesha baig",
+      "Batch": "19",
+      "Course": "fw19",
+      "Age": "1",
+      "Mobile_No": "7799012154",
+      "Evaluation_score": "11",
+      "id": "7RRUJ7y"
+    },
+    {
+      "Name": "Kalesha baig",
+      "Batch": "19",
+      "Course": "fw21",
+      "Age": "19",
+      "Mobile_No": "7799012154",
+      "Evaluation_score": "222",
+      "id": "TiDRPlL"
+    }
+  ],
+  "menu": [],
+  "items": []
+}
