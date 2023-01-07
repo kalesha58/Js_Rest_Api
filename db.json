@@ -53,5 +53,7 @@
   "menu": [],
   "items": [],
   "cars":[],
-  "wishlisted_cars":[]
+  "wishlisted_cars":[],
+  "signup":[],
+  "task":[]
 }
